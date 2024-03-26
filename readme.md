@@ -45,7 +45,7 @@ Com essas configurações, o sistema de rega automatizado só irá funcionar ent
 
 ## Uso
 
-O sistema de rega automatizado irá monitorar a umidade do solo e ligar a válvula de água quando a umidade cair abaixo de um certo limite. Este limite pode ser ajustado usando o controle remoto infravermelho.
+O sistema de rega automatizado irá monitorar a umidade do solo e ligar a válvula de água caso a umidade cair abaixo de um certo limite definido pelo usuario e caso o horario atual se encontre entre os horarios definidos. Estes limites podem ser ajustados usando o controle remoto infravermelho.
 
 O display LCD exibirá informações sobre o estado atual do sistema, incluindo a umidade atual do solo e o limite de umidade. Ele também exibirá um menu que permite ajustar as configurações do sistema.
 
